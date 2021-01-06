@@ -1,0 +1,579 @@
+{
+  "tag_name": "html",
+  "nested_element": [
+    {
+      "tag_name": "title",
+      "nested_element": "MY BOLOG"
+    },
+    {
+      "tag_name": "meta",
+      "charset": "UTF-8"
+    },
+    {
+      "tag_name": "meta",
+      "name": "viewport",
+      "content": "width=device-width,initial-scale=1"
+    },
+    {
+      "tag_name": "link",
+      "rel": "stylesheet",
+      "href": "https://www.w3schools.com/w3css/4/w3.css"
+    },
+    {
+      "tag_name": "link",
+      "rel": "stylesheet",
+      "href": "https://fonts.googleapis.com/css?family=Raleway"
+    },
+    {
+      "tag_name": "body",
+      "class": "w3-light-grey",
+      "nested_element": [
+        {
+          "tag_name": "div",
+          "class": "w3-content",
+          "style": "max-width:1400px",
+          "nested_element": [
+            {
+              "tag_name": "header",
+              "class": "w3-container w3-center w3-padding -32",
+              "nested_element": [
+                {
+                  "tag_name": "h1",
+                  "nested_element": [
+                    {
+                      "tag_name": "b",
+                      "nested_element": "MY BLOG"
+                    }
+                  ]
+                },
+                {
+                  "tag_name": "p",
+                  "nested_element": [
+                    "welcome to the blog of ",
+                    {
+                      "tag_name": "span",
+                      "class": "w3-tag",
+                      "nested_element": "unknown"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag_name": "div",
+              "class": "w3-row",
+              "nested_element": [
+                {
+                  "tag_name": "div",
+                  "class": "w3-col l8 s12",
+                  "nested_element": [
+                    {
+                      "tag_name": "div",
+                      "class": "w3-card-4 w3-margin w3-white",
+                      "nested_element": [
+                        {
+                          "tag_name":"img",
+                          "src": "assert/woods.jpg",
+                          "alt":"Nature",
+                          "style":"width:100%"
+
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "w3-container",
+                          "nested_element": [
+                            {
+                              "tag_name": "h3",
+                              "nested_element": [
+                                {
+                                  "tag_name": "b",
+                                  "nested_element": "TITLE HEADING"
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "h5",
+                              "nested_element": [
+                                "title description, ",
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-opacity",
+                                  "nested_element": "april 7, 2014"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "w3-container",
+                          "nested_element": [
+                            {
+                              "tag_name": "p",
+                              "nested_element": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla."
+                            },
+                            {
+                              "tag_name": "div",
+                              "class": "w3-row",
+                              "nested_element": [
+                                {
+                                  "tag_name": "div",
+                                  "class": "w3-col m8 s12",
+                                  "nested_element": [
+                                    {
+                                      "tag_name": "p",
+                                      "nested_element": [
+                                        {
+                                          "tag_name": "button",
+                                          "class": "w3-button w3-padding-large w3-white w3-border",
+                                          "nested_element": [
+                                            {
+                                              "tag_name": "b",
+                                              "nested_element": "READ MORE"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag_name": "div",
+                                  "class": "w3-col m4 w3-hide-small",
+                                  "nested_element": [
+                                    {
+                                      "tag_name": "p",
+                                      "nested_element": [
+                                        {
+                                          "tag_name": "span",
+                                          "class": "w3-padding-large w3-right",
+                                          "nested_element": [
+                                            {
+                                              "tag_name": "b",
+                                              "nested_element":"comments"
+                                            },
+                                            {
+                                              "tag_name": "span",
+                                              "class": "w3-tag",
+                                              "nested_element": "0"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag_name": "hr"
+                    },
+                    {
+                      "tag_name": "div",
+                      "class": "w3-card-4 w3-margin w3-white",
+                      "nested_element": [
+                        {
+                          "tag_name": "img",
+                          "src": "assert/bridge.jpg",
+                          "alt": "Norway",
+                          "style": "width:100%"
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "w3-container",
+                          "nested_element": [
+                            {
+                              "tag_name": "h3",
+                              "nested_element": [
+                                {
+                                  "tag_name": "b",
+                                  "nested_element": "BLOG ENTRY"
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "h5",
+                              "nested_element": [
+                                "Title description,",
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-opacity",
+                                  "nested_element": "April 2,2014"
+                                }
+
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "w3-container",
+                          "nested_element": [
+                            {
+                              "tag_name":"p",
+                              "nested_element": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla."
+
+                            },
+                            {
+                              "tag_name": "div",
+                              "class": "w3-row",
+                              "nested_element": [
+                                {
+                                  "tag_name": "div",
+                                  "class": "w3-col m8 s12",
+                                  "nested_element": [
+                                    {
+                                      "tag_name": "p",
+                                      "nested_element": [
+                                        {
+                                          "tag_name": "button",
+                                          "class": "w3-button w3-padding-large w3-white w3-border",
+                                          "nested_element": [
+                                            {
+                                              "tag_name": "b",
+                                              "nested_element": "READ MORE >> "
+
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag_name": "div",
+                                  "class": "w3-col m4 w3-hide-small",
+                                  "nested_element": [
+                                    {
+                                      "tag_name": "p",
+                                      "nested_element": [
+                                        {
+                                          "tag_name": "span",
+                                          "class": "w3-padding-large w3-right",
+                                          "nested_element": [
+                                            {
+                                              "tag_name": "b",
+                                              "nested_element": "comments"
+                                            },
+                                            {
+                                              "tag_name": "span",
+                                              "class": "w3-badge",
+                                              "nested_element": "2"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag_name": "div",
+                  "class": "w3-col l4",
+                  "nested_element": [
+                    {
+                      "tag_name": "div",
+                      "class": "w3-card w3-margin w3-margin-top",
+                      "nested_element": [
+                        {
+                          "tag_name": "img",
+                          "src": "assert/avatar_g.jpg",
+                          "sytle": "width:100%"
+
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "w3-container w3-white",
+                          "nested_element": [
+                            {
+                              "tag_name": "h4",
+                              "nested_element": [
+                                {
+                                  "tag_name": "b",
+                                  "nested_element": "My Name"
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "p",
+                              "nested_element": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag_name": "hr"
+                    },
+                    {
+                      "tag_name": "div",
+                      "class": "w3-card w3-margin",
+                      "nested_element": [
+                        {
+                          "tag_name": "div",
+                          "class": "w3-container w3-padding",
+                          "nested_element": [
+                            {
+                              "tag_name": "h4",
+                              "nested_element": "popular Posts"
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "ul",
+                          "class": "w3-ul w3-hoverable w3-white",
+                          "nested_element": [
+                            {
+                              "tag_name": "li",
+                              "class": "w3-padding-16",
+                              "nested_element": [
+                                {
+                                  "tag_name": "img",
+                                  "src": "assert/workshop.jpg",
+                                  "alt": "Image",
+                                  "class":"w3-left w3-margin-right",
+                                  "style": "width:50px"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-large",
+                                  "nested_element": "Lorem"
+                                },
+                                {
+                                  "tag_name": "br"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "nested_element": "Sed mattis nunc"
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "class": "w3-padding-16",
+                              "nested_element": [
+                                {
+                                  "tag_name": "img",
+                                  "src": "assert/skies.jpg",
+                                  "alt": "Image",
+                                  "class":"w3-left w3-margin-right",
+                                  "style": "width:50px"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-large",
+                                  "nested_element": "Lorem"
+                                },
+                                {
+                                  "tag_name": "br"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "nested_element": "Sed mattis nunc"
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "class": "w3-padding-16",
+                              "nested_element": [
+                                {
+                                  "tag_name": "img",
+                                  "src": "assert/rock.jpg",
+                                  "alt": "Image",
+                                  "class":"w3-left w3-margin-right",
+                                  "style": "width:50px"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-large",
+                                  "nested_element": "Lorem"
+                                },
+                                {
+                                  "tag_name": "br"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "nested_element": "Sed mattis nunc"
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "class": "w3-padding-16",
+                              "nested_element": [
+                                {
+                                  "tag_name": "img",
+                                  "src": "assert/gondol.jpg",
+                                  "alt": "Image",
+                                  "class":"w3-left w3-margin-right",
+                                  "style": "width:50px"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-large",
+                                  "nested_element": "Lorem"
+                                },
+                                {
+                                  "tag_name": "br"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "nested_element": "Sed mattis nunc"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag_name": "hr"
+                    },
+                    {
+                      "tag_name":"div",
+                      "class": "w3-card w3-margin",
+                      "nested_element": [
+                        {
+                          "tag_name": "div",
+                          "class": "w3-container w3-padding",
+                          "nested_element": [
+                            {
+                              "tag_name": "h4",
+                              "nested_element": "Tags"
+                            }
+                          ]
+
+                        },
+                        {
+                          "tag_name":"div",
+                          "class": "w3-container w3-white",
+                          "nested_element": [
+                            {
+                              "tag_name": "p",
+                              "nested_element": [
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-black w3-margin-bottom",
+                                  "nested_element": "Travel"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "New york"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "class": "w3-tag w3-light-grey w3-small w3-margin-bottom",
+                                  "nested_element": "London"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+
+                  ]
+                }
+              ]
+            },
+            {
+              "tag_name": "br"
+            }
+          ]
+        },
+        {
+          "tag_name": "footer",
+          "class": "w3-container w3-dark-grey w3-padding-32 w3-margin-top",
+          "nested_element": [
+            {
+              "tag_name": "button",
+              "class":"w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom",
+              "nested_element": "Previous"
+            },
+            {
+              "tag_name": "button",
+              "class":"w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom",
+              "nested_element": "Next"
+            },
+            {
+          "tag_name": "p",
+          "nested_element": [
+            "powered by",
+            {
+              "tag_name":"a",
+              "href": "https://www.w3schools.com/w3css/default.asp",
+              "target": "_blank",
+              "nested_element": "w3.css"
+            }
+          ]
+        }
+          ]
+        }
+
+      ]
+    }
+  ]
+}
